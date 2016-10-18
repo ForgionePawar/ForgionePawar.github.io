@@ -1,8 +1,8 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-url: http://ForgionePawar.github.io
-title: ForgionePawar
-tagline: A log of everyday life
-description: My awesome new site
+url: http://brehon.io
+title: Brehon Arbitration
+tagline: A third party arbitration protocol for smart contracts
+description: A third party arbitration protocol for smart contracts
 paginate: 5
