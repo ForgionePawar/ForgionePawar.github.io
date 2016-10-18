@@ -2,7 +2,7 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://brehon.io
-title: Brehon Arbitration
+title: Brehon Arbitration Protocol
 tagline: A third party arbitration protocol for smart contracts
 description: A third party arbitration protocol for smart contracts
 paginate: 5
